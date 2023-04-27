@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m Jun Ouyang
+- 😄 Blog: https://blog.stdin.in
+- 💬 Email: ouyangjun1999@gmail.com
 <!--
 **oowl/oowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
