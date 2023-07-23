@@ -2,7 +2,7 @@
 
 - 🔭 I’m oowl!
 - 😄 Blog: https://blog.stdin.in
-- 💬 Email: ouyangjun1999@gmail.com
+- 💬 Email: junouyang@apache.org
 
 ![Samina Fu's GitHub stats](https://github-readme-stats.vercel.app/api?username=oowl&show_icons=true&theme=cobalt)
 <!--
