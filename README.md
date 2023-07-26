@@ -4,7 +4,8 @@
 - 😄 Blog: https://blog.stdin.in
 - 💬 Email: junouyang@apache.org
 
-![Samina Fu's GitHub stats](https://github-readme-stats.vercel.app/api?username=oowl&show_icons=true&theme=cobalt)
+![oowl's GitHub stats](https://github-readme-stats.vercel.app/api?username=oowl&show_icons=true&theme=cobalt)
+
 <!--
 **oowl/oowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
